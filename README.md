@@ -137,7 +137,7 @@
       <div>
         <h2 class="footer-title" id="contact-title">Contact support</h2>
         <p id="contact-email">Email: support@farmerhelpportal.com</p>
-        <p id="contact-phone">Phone: +91 90000 00000</p>
+        <p id="contact-phone">Phone: +91 9989919779</p>
       </div>
       <p class="footer-note" id="footer-note">Accessible, simple, and mobile-friendly for every farmer.</p>
     </div>
